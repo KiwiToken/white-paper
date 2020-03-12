@@ -1,3 +1,20 @@
+## KIWI  
+
+#### KIWI: A Proof-of-Work Sha3 Mineable ERC20/EIP918 Token
+---------------------------------------------
+
+KIWI is a 0xBitcoin fork and most of what is said about 0xBitcoin applies to KIWI.
+
+Unlike 0xBTC, KIWI does not try to mimic specs and dynamics of the original Bitcoin. Parameters in KIWI's contract give it some unique features, such as:
+
+- A greater total supply 21m -> 7000m
+- Much lower difficulty
+- Halvening
+
+[differencies to be discussed in more detail]
+
+
+
 ## 0xBitcoin  
 
 #### ( Whitepaper Revision 1.0.2 )
