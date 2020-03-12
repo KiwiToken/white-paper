@@ -13,6 +13,7 @@ Unlike 0xBTC, KIWI does not try to mimic specs and dynamics of the original Bitc
 
 [differencies to be discussed in more detail]
 
+https://etherscan.io/address/0x2BF91c18Cd4AE9C2f2858ef9FE518180F7B5096D#code
 
 
 ## 0xBitcoin  
